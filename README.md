@@ -37,8 +37,8 @@
 
 ###
 
-- 📚 studying in SŠ Strážnice
 - 🎮 playing video games
+- 📚 studying in SŠ Strážnice
 - 🖥️ modeling in 3D Studio MAX
 
 ###
