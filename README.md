@@ -1,16 +1,48 @@
-### Hi there 👋
+<div align="center">
+  <img src="github_banner.png"  />
+</div>
 
-<!--
-**GirlWithSoul/GirlWithSoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.youtube.com/channel/UC5nuX-nzajIIGBIwQ6BXBIQ" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/girlwithsoull/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/438572419813474324" target="_blank">
+    <img src="https://dcbadge.vercel.app/api/shield/530801309461250061?theme=discord-inverted" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/girlwithsoul/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<h2 align="left">📌 Pinboard</h2>
+
+###
+
+- 🎮 playing video games   
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/girlwithsoul/girlwithsoul/output/snake.svg" alt="Snake animation" />
+
+###
