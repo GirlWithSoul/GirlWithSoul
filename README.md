@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cau.png"  />
+  <img src="cau.jpg"  />
 </div>
 
 ###
