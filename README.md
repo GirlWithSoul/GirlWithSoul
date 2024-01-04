@@ -37,7 +37,8 @@
 
 ###
 
-- 🎮 playing video games
+-  🎮 playing video games
+-  📷 photographing nature
 - 📚 studying in SŠ Strážnice
 - 🖥️ modeling in 3D Studio MAX
 
