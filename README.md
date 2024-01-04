@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="cau.jpg"  />
+  <img src="cau.jpg"  
+    height="360"/>
 </div>
 
 ###
