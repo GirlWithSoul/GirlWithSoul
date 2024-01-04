@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/438572419813474324" target="_blank">
-    <img src="https://dcbadge.vercel.app/api/shield/530801309461250061?theme=discord-inverted" height="35" alt="discord logo"  />
+    <img src="https://dcbadge.vercel.app/api/shield/438572419813474324?theme=discord-inverted" height="35" alt="discord logo"  />
   </a>
 </div>
 
