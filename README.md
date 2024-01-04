@@ -37,7 +37,8 @@
 
 ###
 
-- 🎮 playing video games   
+- 🎮 playing video games
+- 🖥️ modeling in 3D Studio MAX
 
 ###
 
