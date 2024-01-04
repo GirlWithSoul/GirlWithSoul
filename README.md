@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cau.jpg"  
+  <img src="banner1.jpg"  
     height="360"/>
 </div>
 
